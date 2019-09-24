@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  list-style-type: none; /* fallback */
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  color: lightgray;
+}
